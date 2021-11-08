@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**TrevorDBrown/TrevorDBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone! I'm Trevor Brown! I'm a Follower of Christ. I'm a Systems Analyst at [Logan Aluminum, Inc.](https://logan-aluminum.com). I'm also a Graduate Student at [Western Kentucky University (WKU)](https://wku.edu/), studying Computer Science. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+- I’m currently working on:
+  - Master's Thesis - An Implementation of Extended Reality Technology for Field-specific, Manufacturing Process Education and Training.
+  - [LinkFreePlus](https://github.com/TrevorDBrown/LinkFreePlus) - an open source alternative to LinkTree. Based on [MichaelBarney/LinkFree](https://github.com/michaelbarney/Linkfree).
+  - [VSCoop](https://github.com/TrevorDBrown/VSCoop) - A scriptable scratchpad for developers using VSCode. Based on [IvanMathy/Boop](https://github.com/IvanMathy/Boop) and [felixse/Woop](https://github.com/felixse/Woop).
+- I’m currently learning:
+  - C#
+  - Unity
+  - TypeScript
+- 📫 How to reach me:
+  - My [LinkFreePlus](http://trevord.me)!
