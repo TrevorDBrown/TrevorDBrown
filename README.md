@@ -11,5 +11,5 @@ About me:
   - C#
   - Unity
   - TypeScript
-- 📫 How to reach me:
+- How to reach me:
   - My [LinkFreePlus](http://trevord.me)!
