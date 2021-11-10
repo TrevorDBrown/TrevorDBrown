@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello everyone! I'm Trevor Brown! I'm a Follower of Christ. I'm a Systems Analyst at [Logan Aluminum, Inc.](https://logan-aluminum.com). I'm also a Graduate Student at [Western Kentucky University (WKU)](https://wku.edu/), studying Computer Science. 
+Hello everyone! I'm Trevor Brown! I'm a Follower of Christ. I'm a Systems Analyst at [Logan Aluminum, Inc.](https://www.logan-aluminum.com/). I'm also a Graduate Student at [Western Kentucky University (WKU)](https://wku.edu/), studying Computer Science. 
 
 About me:
 - I’m currently working on:
