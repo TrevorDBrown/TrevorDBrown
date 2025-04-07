@@ -2,7 +2,7 @@
 
 Hello, everyone! I'm Trevor!
 
-About me:
+### About me
 - I'm a Follower of Christ!
 - I'm married to a wonderful woman! 
 - I'm a Data Engineer at [Logan Aluminum, Inc.](https://github.com/LoganAluminum).
@@ -18,5 +18,5 @@ About me:
 - I’m currently learning about:
   - Data Engineering
 
-Contact me:
+### Contact me
 - My [LinkTree](http://trevord.me)!
